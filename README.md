@@ -1,3 +1,12 @@
+I tried working some of these lisp koans, but ultimately I found I wasn't
+retaining any lessons from them.  I think that's because they ask me to fill in
+the blanks for things like `(assert-equal car ___ '(1 2 3))`, without requiring
+me to type `car`.  Without that, I'm unlikely to remember that `car` means "get
+the first element of a list."  I'd rather learn via exercises that require me to
+do more of the typing myself.
+
+---
+
 # Lisp Koans
 
 ## Getting Started
